@@ -1,4 +1,5 @@
 streamlit
-matplotlib.pyplot
+matplotlib
 pandas
 seaborn
+scikit-learn
